@@ -1,0 +1,25 @@
+body{
+    width: 1280px;
+    height: 3519px;
+}
+
+.RicoLogo{
+    font: 400 37px Lobster ;
+}
+
+.disnav{
+    font: 400 16px Cabin;
+}
+
+.encabezado{
+    font: 700 40px Cabin;
+}
+
+.card-text{
+    font: 400 16px Cabin;
+}
+
+.descrip {
+    font: 400 20px/30px Cabin;
+}
+
